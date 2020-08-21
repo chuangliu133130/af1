@@ -1,0 +1,6 @@
+framework module af1 {
+  umbrella header "af1-umbrella.h"
+
+  export *
+  module * { export * }
+}
